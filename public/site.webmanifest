@@ -1,0 +1,16 @@
+{
+  "name": "Shreya Gupta Portfolio",
+  "short_name": "Shreya Gupta",
+  "description": "AI & Machine Learning Enthusiast Portfolio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}
