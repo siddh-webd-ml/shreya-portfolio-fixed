@@ -15,7 +15,7 @@ const certificates = [
     skills: ["Python", "NumPy", "Pandas", "Matplotlib", "Data Analysis"],
     color: "from-purple-500 to-violet-500",
     link: "/certificates/nptel.pdf",
-    link: "/certificates/nptel.pdf",
+    
   },
   {
     title: "Basics of Python",
@@ -25,7 +25,7 @@ const certificates = [
     skills: ["Python", "OOP", "File Handling", "Functions"],
     color: "from-indigo-500 to-blue-500",
     link: "/certificates/infosys python.pdf",
-    link: "/certificates/infosys python.pdf",
+    
   },
   {
     title: "Introduction to Artificial Intelligence",
@@ -35,7 +35,7 @@ const certificates = [
     skills: ["AI Fundamentals", "Search Algorithms", "Neural Networks"],
     color: "from-violet-500 to-purple-500",
     link: "/certificates/infosys ai.pdf",
-    link: "/certificates/infosys ai.pdf",
+    
   },
   {
     title: "Artificial Intelligence Foundation",
@@ -45,7 +45,7 @@ const certificates = [
     skills: ["Machine Learning", "Deep Learning", "NLP", "AI Ethics"],
     color: "from-blue-500 to-indigo-500",
     link: "/certificates/infosys foundation.pdf",
-    link: "/certificates/infosys foundation.pdf",
+    
   },
 ]
 export default function Certificates() {
